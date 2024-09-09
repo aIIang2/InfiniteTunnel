@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/WBP_Health.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/HPColorCurve.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/Glow_Blue.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/Glow_Red.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/Glow_Yellow.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/KillFX.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/Explode.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/Bullet.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_HPSpawner.uasset",
+				"C:/Users/allan/Downloads/CS 415/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/Colors.uasset",
+				"C:/Users/allan/Downloads/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/allan/Downloads/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_Player.uasset"
+			]
+		}
+	]
+}
